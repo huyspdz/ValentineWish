@@ -2,5 +2,6 @@
   "name": "em",
   "greetingText": "Nhân tiện, tôi thực sự thích tên của bạn!",
   "wishText": "Trong mắt em, có một vẻ đẹp kỳ lạ, Những làn gió của em làm cho trái tim này trở nên điên cuồng",
-  "imagePath": "img/vector.jpg"
+  "imagePath": "img/vector.jpg",
+  "gifPath": "https://i.pinimg.com/originals/bd/86/12/bd861200835c26a0baba7f9d3113f1aa.gif"
 }
